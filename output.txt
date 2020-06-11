@@ -1,0 +1,10 @@
+satvik:2
+is:2
+a:2
+good:2
+story:2
+writter:2
+and:1
+an:1
+actor.:1
+.:1
